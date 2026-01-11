@@ -1,0 +1,49 @@
+The RPGAI system operates as a console application, designed to simulate a Text-Based Role-playing game adventure 
+ through a variety of techniques.
+
+The system starts by providing a description of the setting asks the user's character name. The name is compared against 
+ an NLTK dataset of valid names. A valid name passes which is used for the identity management system in later sections.
+
+Intent matching is used in an illusion of choice to acertain the direction the user chooses to go in. 
+Each option reveals different text.
+
+
+
+
+
+Harold
+
+I cautiously enter the door.
+
+Who are you?
+
+Who is Fluff?
+
+Where are we?
+
+You can teleport?
+
+Wait, did you say witch? What is that?
+
+You have wares?
+
+Can you make me a potion of bravery?
+
+Hmm, not quite.
+
+Maybe a potion of luck?
+
+yes
+
+There's a price?
+
+I can haggle!?
+
+Uhhhh. you are... umm. Ah, you have a great personality.
+
+a
+
+
+
+
+

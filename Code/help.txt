@@ -1,0 +1,8 @@
+
+#https://www.gutenberg.org/ebooks/search/?query=instruct&submit_search=Go%21
+# # Get Frankenstein eBook
+# url = "http://www.gutenberg.org/files/84/84-0.txt"
+# book = request.urlopen(url).read().decode('utf8', errors='ignore')
+
+# # Get first chapter
+# text = book.split("Chapter 1\r\n\r\n")[1].split("Chapter 2\r\n\r\n")[0]
